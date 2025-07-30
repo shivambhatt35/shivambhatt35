@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Shivam Bhatt
 
 🎯 Analytical and results-oriented Data Analyst with 4+ years of experience driving business growth through
-advanced analytics, forecasting, and predictive modeling.
-🔧 Skilled in developing scalable analytics frameworks and translating complex data into actionable insights that inform strategic decisions across pharmaceutical, e-commerce, and finance sectors.  
+advanced analytics, forecasting, and predictive modeling.<br>
+🔧 Skilled in developing scalable analytics frameworks and translating complex data into actionable insights that inform strategic decisions across pharmaceutical, e-commerce, and finance sectors.<br>
 💡 Proven ability to lead cross-functional collaboration and deliver measurable impact in fast-paced, data-driven environments. 
 
 ---
