@@ -7,15 +7,60 @@ advanced analytics, forecasting, and predictive modeling.<br>
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Technical Skills & Expertise
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E87722?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧠 Core Technical Skills  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🗃️ Big Data Stack  
+![Apache Spark](https://img.shields.io/badge/Spark-FCA121?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E87722?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### ⚙️ Analytical Tools  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-003C71?style=for-the-badge&logo=alteryx&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+### 📊 Business Analytics  
+`KPI Development` `Stakeholder Engagement` `Root Cause Analysis` `Data-Driven Decisions`
+
+---
+
+### 🤖 Predictive Modeling  
+`Machine Learning Algorithms` `Statistical Analysis` `A/B Testing` `Predictive Analytics`
+
+---
+
+### 🧭 Domain Expertise  
+`Healthcare Analytics` `E-commerce Analytics` `Product Analytics` `Financial Analytics`
+
+---
+
+### 📚 Certifications  
+✅ `Advanced SQL (HackerRank Certified)`  
+✅ `Python Specialization (University of Michigan)`  
+✅ `Fundamentals of Analytics (AWS)`  
+✅ `Intro to Machine Learning (Kaggle)`  
+✅ `Microsoft Azure (DP-900)`
+
 
 ---
 
