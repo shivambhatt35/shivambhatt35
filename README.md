@@ -40,17 +40,27 @@ advanced analytics, forecasting, and predictive modeling.<br>
 ---
 
 ### 📊 Business Analytics  
-`KPI Development` `Stakeholder Engagement` `Root Cause Analysis` `Data-Driven Decisions`
+![KPI Development](https://img.shields.io/badge/KPI%20Development-blue?style=for-the-badge)
+![Stakeholder Engagement](https://img.shields.io/badge/Stakeholder%20Engagement-blue?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-blue?style=for-the-badge)
+![Data-Driven Decisions](https://img.shields.io/badge/Data--Driven%20Decisions-blue?style=for-the-badge)
 
 ---
 
 ### 🤖 Predictive Modeling  
-`Machine Learning Algorithms` `Statistical Analysis` `A/B Testing` `Predictive Analytics`
+![ML Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-green?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-green?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-green?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-green?style=for-the-badge)
 
 ---
 
 ### 🧭 Domain Expertise  
-`Healthcare Analytics` `E-commerce Analytics` `Product Analytics` `Financial Analytics`
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-purple?style=for-the-badge)
+![E-commerce Analytics](https://img.shields.io/badge/E--commerce%20Analytics-purple?style=for-the-badge)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-purple?style=for-the-badge)
+![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-purple?style=for-the-badge)
+
 
 ---
 
