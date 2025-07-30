@@ -100,17 +100,16 @@
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-name/)
-- 📫 Email: your.email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-bhatt-60a3891ab/)
+- 📫 Email: shivamharsh35@gmail.com
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced Machine Learning for Forecasting  
+- Advanced Machine Learning for Forecasting
+- Generative AI
 - Scalable Data Architecture with Spark and Lakehouse  
-- Writing optimized SQL for analytics at scale
 
 ---
 
