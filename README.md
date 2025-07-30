@@ -40,26 +40,26 @@ advanced analytics, forecasting, and predictive modeling.<br>
 ---
 
 ### 📊 Business Analytics  
-![KPI Development](https://img.shields.io/badge/KPI%20Development-1E90FF?style=for-the-badge&logoColor=white)
-![Stakeholder Engagement](https://img.shields.io/badge/Stakeholder%20Engagement-4682B4?style=for-the-badge&logoColor=white)
-![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-5F9EA0?style=for-the-badge&logoColor=white)
-![Data-Driven Decisions](https://img.shields.io/badge/Data--Driven%20Decisions-6495ED?style=for-the-badge&logoColor=white)
+![KPI Development](https://img.shields.io/badge/KPI%20Development-4b0082?style=for-the-badge&logo=data&logoColor=white)
+![Stakeholder Engagement](https://img.shields.io/badge/Stakeholder%20Engagement-da70d6?style=for-the-badge&logo=Handshake&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-20b2aa?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Data-Driven Decisions](https://img.shields.io/badge/Data--Driven%20Decisions-8a2be2?style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
 
 ---
 
 ### 🤖 Predictive Modeling  
-![ML Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-228B22?style=for-the-badge&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-32CD32?style=for-the-badge&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-2E8B57?style=for-the-badge&logoColor=white)
-![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-3CB371?style=for-the-badge&logoColor=white)
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-ff4500?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-00ced1?style=for-the-badge&logo=r&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-ff69b4?style=for-the-badge&logo=Flask&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-7fff00?style=for-the-badge&logo=scikitlearn&logoColor=black)
 
 ---
 
 ### 🧭 Domain Expertise  
-![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-800080?style=for-the-badge&logoColor=white)
-![E-commerce Analytics](https://img.shields.io/badge/E--commerce%20Analytics-8A2BE2?style=for-the-badge&logoColor=white)
-![Product Analytics](https://img.shields.io/badge/Product%20Analytics-6A5ACD?style=for-the-badge&logoColor=white)
-![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-4B0082?style=for-the-badge&logoColor=white)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-d2691e?style=for-the-badge&logo=medrt&logoColor=white)
+![E-commerce Analytics](https://img.shields.io/badge/E--commerce%20Analytics-1e90ff?style=for-the-badge&logo=Shopify&logoColor=white)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-ff6347?style=for-the-badge&logo=ProductHunt&logoColor=white)
+![Financial Analytics](https://img.shields.io/badge/Financial%20Analytics-228b22?style=for-the-badge&logo=PayPal&logoColor=white)
 
 ---
 
