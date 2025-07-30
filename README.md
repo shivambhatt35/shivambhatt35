@@ -89,9 +89,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Customer Profiling](https://github.com/shivambhatt35/Customer-Profiling) | Comprehensive analysis framework combining exploratory stats, ML, and visualizations to segment customers and drive insights. | Python, SQL, Scikit-learn, Tableau |
+| [Customer Profiling](https://github.com/shivambhatt35/Customer-Profiling) | Comprehensive analysis framework combining exploratory stats, ML, and visualizations to segment customers and drive insights. | Python, SQL, Scikit-learn, Matplotlib & Seaborn |
 | [Data Quality Engine](https://github.com/shivambhatt35/Data-Quality-Framework) | Modular PySpark engine for rule-based validations, integration, and automated data quality reporting. | PySpark, Python, AWS |
-| [Demand Forecasting](https://github.com/shivambhatt35/Demand-Forecasting) | Time-series pipeline forecasting hourly demand by warehouse and delivery region using statistical and predictive analytics. | Python, Pandas, Airflow, Databricks |
+| [Demand Forecasting](https://github.com/shivambhatt35/Demand-Forecasting) | Time-series pipeline forecasting hourly demand by warehouse and delivery region using statistical and predictive analytics. | Python, Pandas, XGBoost, TensorFlow  |
 | [Motor Vehicle Collision Analysis](https://github.com/shivambhatt35/Motor-Vehicle-Collision-Analysis) | Interactive Streamlit app visualizing NYC collision data by time, location, and injury severity using Plotly and Pydeck. | Python, Streamlit, Plotly, Pydeck |
 | [COVID-19 Analysis](https://github.com/shivambhatt35/Covid19-Analysis) | Analyzed COVID-19 cases with Johns Hopkins data and correlated with social factors from World Happiness Report 2020. | Python, Pandas, Matplotlib |
 
