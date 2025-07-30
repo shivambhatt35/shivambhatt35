@@ -87,8 +87,6 @@
 
 ## 📌 Featured Projects
 
-## 🚀 Projects
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Customer Profiling](https://github.com/shivambhatt35/Customer-Profiling) | Comprehensive analysis framework combining exploratory stats, ML, and visualizations to segment customers and drive insights. | Python, SQL, Scikit-learn, Tableau |
