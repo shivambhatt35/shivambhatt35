@@ -69,7 +69,8 @@ advanced analytics, forecasting, and predictive modeling.<br>
 ✅ `Fundamentals of Analytics (AWS)`  
 ✅ `Intro to Machine Learning (Kaggle)`  
 ✅ `Microsoft Azure (DP-900)`
-
+✅ `Large Language Models on AWS`
+✅ `Introduction to Google Analytics `
 
 ---
 
