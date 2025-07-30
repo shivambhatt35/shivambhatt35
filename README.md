@@ -2,7 +2,7 @@
 
 🎯 Results-driven Data Analyst with 4+ years of experience leveraging analytics, forecasting, and predictive modeling to drive business growth.<br>
 🔧 Skilled in building scalable analytics frameworks and converting complex data into actionable insights that drive strategic decisions.<br>
-💡 Proven ability to lead cross-functional collaboration and deliver measurable impact in fast-paced, data-driven environments. 
+💡 Proven ability to lead cross-functional collaboration and deliver measurable impact in fast-paced, data-driven environments.<br>
 🌐 Industry experience: Pharmaceutical, E-Commerce, Finance, National Security sectors.
 
 ---
