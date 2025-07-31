@@ -9,7 +9,7 @@
 
 ## 🛠️ Technical Skills & Expertise
 
-### 🧠 Core Technical Skills  
+### Core Technical Skills  
 ![SQL](https://img.shields.io/badge/SQL-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-26A69A?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-00796B?style=for-the-badge&logo=apachespark&logoColor=white)
