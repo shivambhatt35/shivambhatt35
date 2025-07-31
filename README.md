@@ -50,7 +50,7 @@
 ### Predictive Modeling  
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-00796B?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-26A69A?style=for-the-badge&logo=r&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-4DB6AC?style=for-the-badge&logo=Flask&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-00796B?style=for-the-badge&logo=Flask&logoColor=white)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-00838F?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
