@@ -10,14 +10,12 @@
 ## 🛠️ Technical Skills & Expertise
 
 ### 🧠 Core Technical Skills  
-![SQL](https://img.shields.io/badge/SQL-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-26A69A?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-00796B?style=for-the-badge&logo=apachespark&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-2E7D32?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-00838F?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-00695C?style=for-the-badge&logo=powerbi&logoColor=white)
-
-
+![SQL](https://img.shields.io/badge/SQL-A7FFEB?style=for-the-badge&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-64FFDA?style=for-the-badge&logo=python&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-4DD0E1?style=for-the-badge&logo=apachespark&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-80DEEA?style=for-the-badge&logo=microsoft-excel&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-B2EBF2?style=for-the-badge&logo=tableau&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-E0F7FA?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
