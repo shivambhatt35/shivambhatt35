@@ -79,9 +79,9 @@
 
 | Role & Company                             | Location           | Duration            |
 |-------------------------------------------|--------------------|---------------------|
-| 🧑‍💼 **Senior Data Analyst** — G42 (Presight)   | 📍 Abu Dhabi, UAE   | Oct 2023 – Present |
-| 📊 **Data Analyst** — Zomato (Blinkit)           | 📍 Gurugram, India  | Sep 2022 – Oct 2023 |
-| 📈 **Data Analyst (Business Technology Solutions Associate)** — ZS Associates | 📍 Pune, India      | May 2021 – Sep 2022 |
+| **Senior Data Analyst** — G42 (Presight)   |  Abu Dhabi, UAE   | Oct 2023 – Present |
+|  **Data Analyst** — Zomato (Blinkit)           |  Gurugram, India  | Sep 2022 – Oct 2023 |
+|  **Data Analyst (Business Technology Solutions Associate)** — ZS Associates |  Pune, India      | May 2021 – Sep 2022 |
 
 
 ---
