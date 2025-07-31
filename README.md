@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shivam Bhatt
+# Hi there, I'm Shivam Bhatt
 
 🎯 Results-driven Analyst with 4+ years of experience leveraging analytics,forecasting and predictive modeling to drive business growth.<br>
 🔧 Skilled in building scalable analytics frameworks and converting complex data into actionable insights that drive strategic decisions.<br>
