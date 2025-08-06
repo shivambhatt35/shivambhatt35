@@ -3,7 +3,7 @@
 🎯 Results-driven Analyst with 4+ years of experience leveraging analytics,forecasting and predictive modeling to drive business growth.<br>
 🔧 Skilled in building scalable analytics frameworks and converting complex data into actionable insights that drive strategic decisions.<br>
 💡 Proven ability to lead cross-functional collaboration and deliver measurable impact in fast-paced, data-driven environments.<br>
-🌐 Industry experience: Pharmaceutical, E-Commerce, Finance, Product sectors.
+🌐 Industry experience: Pharmaceutical, E-Commerce, Finance, Product sectors
 
 ---
 
@@ -108,7 +108,7 @@
 
 ## 🧠 Currently Learning
 
-- Advanced Machine Learning for Forecasting
+- Advanced Machine Learning for Forecasting and Time Series Analysis
 - Generative AI
 - Scalable Data Architecture with Spark and Lakehouse  
 
