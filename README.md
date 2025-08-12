@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Technical Skills & Expertise
+##  Technical Skills & Expertise
 
 ### Core Technical Skills  
 ![SQL](https://img.shields.io/badge/SQL-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
