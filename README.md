@@ -108,9 +108,10 @@
 
 ##  Currently Learning
 
-- Advanced Machine Learning for Forecasting and Time Series Analysis
+- Advanced Machine Learning for Predictive Modelling
 - Generative AI
-- Scalable Data Architecture with Spark and Lakehouse  
+- Scalable Data Architecture with Spark and Lakehouse
+- Ethical & Responsible AI in Prediction: Focused on bias detection and mitigation, and fairness-aware modeling to ensure equitable and trustworthy AI outcomes.
 
 ---
 
