@@ -64,7 +64,7 @@
 
 ---
 
-### 📚 Certifications  
+###  Certifications  
 ✅ `Advanced SQL (HackerRank Certified)`  
 ✅ `Python Specialization (University of Michigan)`  
 ✅ `Fundamentals of Analytics (AWS)`  
