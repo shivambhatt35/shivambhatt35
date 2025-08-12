@@ -75,7 +75,7 @@
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 | Role & Company                             | Location           | Duration            |
 |-------------------------------------------|--------------------|---------------------|
@@ -86,7 +86,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -99,14 +99,14 @@
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-bhatt-60a3891ab/)
 - 📫 Email: shivamharsh35@gmail.com
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - Advanced Machine Learning for Forecasting and Time Series Analysis
 - Generative AI
