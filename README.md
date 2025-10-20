@@ -80,6 +80,8 @@
 |-------------------------------------------|--------------------|---------------------|---------------------|
 | **Bachelor of Technology** — Information Technology   |  Guru Gobind Singh Indraprastha University   | 2017-2021 | GPA - 3.87/4 |
 
+**Relevant Coursework:** Data Structure, Algorithms, Probability & Statistics, Calculus, Linear Algebra, Artificial Intelligence
+
 
 ##  Work Experience
 
