@@ -74,6 +74,12 @@
 ✅ `Introduction to Google Analytics `
 
 ---
+##  EDUCATION
+
+| Degree                            | Institute           | Year            |  Score/% |
+|-------------------------------------------|--------------------|---------------------|---------------------|
+| **Bachelor of Technology** — Information Technology   |  Guru Gobind Singh Indraprastha University   | 2017-2021 | GPA - 3.87/4 |
+
 
 ##  Work Experience
 
